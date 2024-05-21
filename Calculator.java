@@ -40,5 +40,3 @@ public class Calculator {
         System.out.println("Division: " + calc.divide(num1, num2));
     }
 }
-
-// End of file
