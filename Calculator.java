@@ -6,6 +6,7 @@ public class Calculator {
     }
 
     // Method for subtraction. Updated locally
+    // Method for subtraction. Updated from GitHub
     public double subtract(double a, double b) {
         return a - b;
     }
