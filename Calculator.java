@@ -27,7 +27,7 @@ public class Calculator {
         return a / b;
     }
 
-    // Main method for testing the calculator
+    // Main method for testing the calculator. Updated
     public static void main(String[] args) {
         Calculator calc = new Calculator();
 
