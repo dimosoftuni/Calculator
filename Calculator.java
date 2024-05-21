@@ -1,3 +1,4 @@
+// Class with Claculator methods
 public class Calculator {
 
     // Method for addition
